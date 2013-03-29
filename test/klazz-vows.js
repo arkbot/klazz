@@ -1,0 +1,1 @@
+var suite = vows.describe('klazz.js');

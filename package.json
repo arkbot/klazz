@@ -1,0 +1,35 @@
+{
+  "name"                : "klazz",
+  "version"             : "0.0.1",
+  "homepage"            : "https://github.com/aeberlin/klazz",
+  "author"              : "Adam Eberlin <ae@adameberlin.com>",
+  "description"         : "Simple prototypal inheritance conventions for NodeJS.",
+  "keywords"            : [ "prototype", "inheritance" ],
+  "license"             : "MIT",
+
+  "preferGlobal"        : false,
+  "analyze"             : false,
+
+  "scripts"             : {
+    "test"                : "vows --spec --isolate"
+  },
+
+  "main"                : "./lib/klazz.js",
+
+  "repository"          : {
+    "type"                : "git",
+    "url"                 : "https://github.com/aeberlin/klazz.git"
+  },
+
+  "dependencies"        : { },
+
+  "devDependencies"     : {
+    "vows"                : "0.7.x"
+  },
+
+  "bundleDependencies"  : [ ],
+
+  "engines"             : {
+    "node"                : ">=0.8"
+  }
+}
