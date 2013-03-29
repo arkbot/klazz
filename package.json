@@ -2,10 +2,15 @@
   "name"                : "klazz",
   "version"             : "0.0.1",
   "homepage"            : "https://github.com/aeberlin/klazz",
-  "author"              : "Adam Eberlin <ae@adameberlin.com>",
-  "description"         : "Simple prototypal inheritance conventions for NodeJS.",
+  "author"              : "Arkbot Industries <webmaster@arkbot.com>",
+  "description"         : "A set of simple prototypal inheritance conventions for NodeJS",
   "keywords"            : [ "prototype", "inheritance" ],
   "license"             : "MIT",
+
+  "contributors": [{
+    "name"              : "Adam Eberlin",
+    "email"             : "ae@adameberlin.com"
+  }],
 
   "preferGlobal"        : false,
   "analyze"             : false,
@@ -18,7 +23,7 @@
 
   "repository"          : {
     "type"                : "git",
-    "url"                 : "https://github.com/aeberlin/klazz.git"
+    "url"                 : "https://github.com/arkbot/klazz.git"
   },
 
   "dependencies"        : { },

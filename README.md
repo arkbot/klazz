@@ -1,6 +1,6 @@
 ## klazz (unstable) ##
 
-simple prototypal inheritance conventions for [NodeJS](http://nodejs.org/)
+a set of simple prototypal inheritance conventions for [NodeJS](http://nodejs.org/)
 
 ### Installation ###
 
